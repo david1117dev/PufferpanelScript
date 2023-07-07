@@ -1,2 +1,5 @@
 # PufferpanelScript
-A simple script to install Pufferpanel + SSL
+
+This is a simple script to install Pufferpanel + SSL
+
+#Features
