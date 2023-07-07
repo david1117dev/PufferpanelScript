@@ -13,7 +13,7 @@
 
 </div>
 
-Unofficial for installing Pufferpanel
+Unofficial script for installing Pufferpanel
 
 ## Features
 
