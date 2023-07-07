@@ -15,5 +15,5 @@ Unofficial for installing Pufferpanel
 
 To use the installation script, run the following command as root.
 
-```sudo wget -O pufferpanel-install.sh https://cdn.raspcraft.eu/pufferpanel-install.sh && sudo chmod +x pufferpanel-install.sh && sudo ./pufferpanel-install.sh
-```
+`sudo wget -O pufferpanel-install.sh https://cdn.raspcraft.eu/pufferpanel-install.sh && sudo chmod +x pufferpanel-install.sh && sudo ./pufferpanel-install.sh
+`
