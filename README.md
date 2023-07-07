@@ -1,15 +1,19 @@
-# PufferPanel Install Script
+# Pufferpanel installation script
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/david1117dev/PufferpanelScript/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/license-GPL%20v3-blue.svg)](LICENSE)
 
-A script to install PufferPanel on Linux.
+Unofficial for installing Pufferpanel
 
-## Prerequisites
+## Features
 
-- Root access to the Linux system.
-- Internet connection.
+- Automatic installation of Pufferpanel
+- Add the admin user
+- Automatic configuration of Nginx and Let's Encrypt (SSL)
+- Automatic configuration of the firewall.
 
 ## Usage
 
-`sudo wget -O pufferpanel-install.sh https://cdn.raspcraft.eu/pufferpanel-install.sh && sudo chmod +x pufferpanel-install.sh && sudo ./pufferpanel-install.sh
-`
+To use the installation script, run the following command as root.
+
+```sudo wget -O pufferpanel-install.sh https://cdn.raspcraft.eu/pufferpanel-install.sh && sudo chmod +x pufferpanel-install.sh && sudo ./pufferpanel-install.sh
+```
