@@ -1,6 +1,6 @@
 # PufferPanel Install Script
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/your-username/your-repo/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/david1117dev/PufferpanelScript/blob/main/LICENSE)
 
 A script to install PufferPanel on Linux.
 
