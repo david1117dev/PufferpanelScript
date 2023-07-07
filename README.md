@@ -1,12 +1,9 @@
 # Pufferpanel installation script
-_Repo metadata_
 
 
 [![GitHub release](https://img.shields.io/github/release/david1117dev/PufferpanelScript?include_prereleases=&sort=semver&color=blue)](https://github.com/david1117dev/PufferpanelScript/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 [![issues - PufferpanelScript](https://img.shields.io/github/issues/david1117dev/PufferpanelScript)](https://github.com/david1117dev/PufferpanelScript/issues)
-
-_Call-to-Action buttons_
 
 <div align="center">
 
